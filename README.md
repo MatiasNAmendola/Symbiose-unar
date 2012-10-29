@@ -11,3 +11,5 @@ Pllace unar.php in the /usr/bin folder and download [phpAr] from GitHub (use at 
 
 ## Licence
 Symbiose-unar is released under GNU GPL v3 licence
+
+[phpAr]:https://github.com/tibounise/phpAr
